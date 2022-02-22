@@ -1,6 +1,4 @@
-# lerna-repo
-
-## Getting Started
+## lerna-repo Getting Started
 ### 1. node_module 설치
 ``` yarn ```
 
